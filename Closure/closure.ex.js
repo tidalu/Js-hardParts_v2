@@ -1,3 +1,5 @@
+// link to the source: http://csbin.io/closures
+// answers: https://github.com/FrontendMasters/fm-snippets/blob/main/javascript-hard-parts-v2/closures.js#L86
 // CHALLENGE 1
 function createFunction() {
 
@@ -335,3 +337,6 @@ function blackjack(array) {
 // console.log(i_ALSO_like_to_live_dangerously()); // => should log 'bust'
 // console.log(i_ALSO_like_to_live_dangerously()); // => should log 'you are done!
 // console.log(i_ALSO_like_to_live_dangerously()); // => should log 'you are done!
+
+
+
