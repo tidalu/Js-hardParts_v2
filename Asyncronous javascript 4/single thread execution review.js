@@ -12,4 +12,6 @@
 // http://csbin.io/promises 
 // http://csbin.io/functional
 // http://csbin.io/oop
+// http://csbin.io/iterators
+// http://csbin.io/generators
 // answers : https://github.com/FrontendMasters/fm-snippets/tree/main/javascript-hard-parts-v2
