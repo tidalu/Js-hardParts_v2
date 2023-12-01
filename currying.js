@@ -1,0 +1,1 @@
+// currying is a transformation of functions that translates a function from callable as f(a, , b, c) into f(a)(b)(c)
